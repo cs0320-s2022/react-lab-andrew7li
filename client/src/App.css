@@ -12,8 +12,9 @@ body {
 }
 
 .Horoscope-view {
+  height: 100px;
   color: blue;
-  font-size: xx-large;
+  font-size: 60px;
 }
 
 .TextBox {
